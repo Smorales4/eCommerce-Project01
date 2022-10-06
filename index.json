@@ -1,0 +1,59 @@
+{
+    "homeProduct": [
+        {
+            "Name": "Rice & Grain Dispenser",
+            "Description": "Grain Dispenser 2 Layers Rice Container Kitchen Food Organizer with 6 Small Grids&1 Large Grid for Home Kitchen Use, Rice Beans Grains Holder.",
+            "Brand": "JIAWANSHUN",
+            "Price": "$78.98",
+            "Image": "https://m.media-amazon.com/images/I/71a0UuMwN1L._AC_SL1500_.jpg”
+        }
+    ],
+    
+    "kitchenProduct": [
+        {
+            "Name": “Multi Function Mini Rice Cooker”,
+            "Description": ”Modern Designed Portable Cooker Digital Display 2L capacity. Five menus. Cook quickly in 25 minutes. With a steamer. Steaming and cooking. Start with one button. 24 hours smart reservation.“,
+            "Brand": “EAP”,
+            "Price": "$15.00",
+            "Image": “https://p.globalsources.com/IMAGES/PDT/B5225857184/rice-cooker.jpg”
+        }
+    ]
+}
+
+
+{
+   
+}
+         {
+            
+        },
+        "beautyProduct":{
+            "Name": "12L Skincare Fridge",
+            "Description": “For Makeup, Cosmetic & Facial Skin Care Products - for Women & Teen Girls - Pearl White Mini Fridge for Bedroom & Bathroom Vanity - Interior LED Lights”
+            "Brand": "Cooluli Beauty",
+            "Price": "$139.00",
+            "Image": “https://m.media-amazon.com/images/I/71puEv4vGqL._AC_SL1500_.jpg”
+        }
+
+    
+}
+
+{
+    "kitchenProducts": [
+        {
+            "Name": ”Rice & Grain Dispenser”,
+            "Description": “Grain Dispenser 2 Layers Rice Container Kitchen Food Organizer with 6 Small Grids&1 Large Grid for Home Kitchen Use, Rice Beans Grains Holder.”,
+            "Brand": “JIAWANSHUN”,
+            "Image": “https://m.media-amazon.com/images/I/71a0UuMwN1L._AC_SL1500_.jpg”,
+            "Price": “$78.98”
+        },
+
+        {
+            "Name": ”Rice & Grain Dispenser”,
+            "Description": “Grain Dispenser 2 Layers Rice Container Kitchen Food Organizer with 6 Small Grids&1 Large Grid for Home Kitchen Use, Rice Beans Grains Holder.”,
+            "Brand": “JIAWANSHUN”,
+            "Image": url:“https://m.media-amazon.com/images/I/71a0UuMwN1L._AC_SL1500_.jpg”,
+            "Price": “$78.98”
+        }
+    ],
+}
